@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_stuff_options",
+  "info": {
+    "displayName": "Options",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}
